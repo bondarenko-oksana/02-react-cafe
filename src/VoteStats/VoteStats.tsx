@@ -1,4 +1,3 @@
-//import { Votes } from '../types/votes';
 import type { Votes } from '../types/votes';
 import styles from './VoteStats.module.css';
 
@@ -32,4 +31,4 @@ export default function VoteStats({
       </p>
     </div>
   );
-}
+} 
